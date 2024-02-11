@@ -71,7 +71,7 @@ class HomeScreen extends StatelessWidget {
         body: Column(
           children: [
             Padding(
-                padding: EdgeInsets.fromLTRB(20, 50, 10, 0),
+                padding: EdgeInsets.fromLTRB(10, 50, 10, 0),
                 child: Row(
                   children: [
                     TextButton(
